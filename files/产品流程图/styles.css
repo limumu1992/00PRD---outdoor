@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u11_img {
+#u21_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,7 +21,7 @@
   width:1216px;
   height:750px;
 }
-#u11 {
+#u21 {
   border-width:0px;
   position:absolute;
   left:1098px;
@@ -29,16 +29,16 @@
   width:1216px;
   height:750px;
 }
-#u11_text {
+#u22 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:367px;
+  width:1212px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u12_img {
+#u23_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -46,7 +46,7 @@
   width:580px;
   height:839px;
 }
-#u12 {
+#u23 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -54,16 +54,16 @@
   width:580px;
   height:839px;
 }
-#u12_text {
+#u24 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:412px;
+  width:576px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u13_img {
+#u25_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -71,7 +71,7 @@
   width:1078px;
   height:826px;
 }
-#u13 {
+#u25 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -79,16 +79,16 @@
   width:1078px;
   height:826px;
 }
-#u13_text {
+#u26 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:405px;
+  width:1074px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u14_div {
+#u27_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -103,7 +103,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u14 {
+#u27 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -111,7 +111,7 @@
   width:193px;
   height:37px;
 }
-#u14_text {
+#u28 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -119,7 +119,7 @@
   width:193px;
   white-space:nowrap;
 }
-#u15_div {
+#u29_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +134,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u15 {
+#u29 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -142,7 +142,7 @@
   width:247px;
   height:37px;
 }
-#u15_text {
+#u30 {
   border-width:0px;
   position:absolute;
   left:0px;
